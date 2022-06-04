@@ -3,7 +3,7 @@ import "./../assets/scss/App.scss";
 
 
 const App = () => (
-  <div className="app">
+  <div className="">
   </div>
 );
 
